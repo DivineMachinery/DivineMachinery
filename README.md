@@ -1,7 +1,7 @@
 ⠀<div align="center">
 
 
-![](https://komarev.com/ghpvc/?username=DivineMachinery&color=FFFFFF&style=plastic&label=Visitors&base=1730)
+![](https://komarev.com/ghpvc/?username=DivineMachinery&color=000000&style=plastic&label=Visitors&base=1730)
 
 
 ![](https://files.catbox.moe/clnlxp.png)
